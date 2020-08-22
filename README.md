@@ -2,7 +2,7 @@
 
 <!-- **jjangsta/jjangsta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🎓 I'm currently specializing in Statistical Machine Learning and Data Science at the University of Toronto
+- 🎓 I'm a student at the University of Toronto specializing in Statistical Machine Learning and Data Science
 - 🏢 I’m currently working as a Machine Learning Developer at Oslyn and Data Scientist Intern in South Korea
 - 🔭 My main interests lie in Deep Learning and Computer Vision
 - 👯 I’m looking to collaborate on ML and Data Science Projects

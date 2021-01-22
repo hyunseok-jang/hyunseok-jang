@@ -7,8 +7,6 @@
 
 #### Contact Information
 
-Personal & Business Inquiry: hspeterj@naver.com
-
-Academic & Research Inquiry: hyunseok.jang@mail.utoronto.ca
-
+Personal & Business Inquiry: hspeterj@naver.com<br/>
+Academic & Research Inquiry: hyunseok.jang@mail.utoronto.ca<br/>
 LinkedIn: https://www.linkedin.com/in/hyunseokjang/

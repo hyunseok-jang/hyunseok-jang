@@ -5,6 +5,12 @@
 - 🎓 I'm a student at the University of Toronto
 - 🏢 I’m currently working as a Data Scientist Intern in South Korea
 
+#### Personal Website
+www.hsjang.com
+- Projects
+- Portfolio
+- Resume/CV
+
 #### Contact Information
 
 Personal & Business Inquiry: hspeterj@naver.com<br/>

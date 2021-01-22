@@ -6,6 +6,8 @@
 - 🏢 I’m currently working as a Data Scientist Intern in South Korea
 
 #### Contact Information
-Personal & Business Inquiry: hspeterj@naver.com \\
-Academic & Research Inquiry: hyunseok.jang@mail.utoronto.ca \\
+Personal & Business Inquiry: hspeterj@naver.com
+
+Academic & Research Inquiry: hyunseok.jang@mail.utoronto.ca
+
 LinkedIn: https://www.linkedin.com/in/hyunseokjang/

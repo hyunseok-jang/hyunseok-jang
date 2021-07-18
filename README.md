@@ -2,17 +2,10 @@
 
 <!-- **jjangsta/jjangsta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🎓 I'm a student at the University of Toronto
-- 🏢 I'm currently working as a Researcher / Data Scientist in South Korea
-
-#### Personal Website
-www.hsjang.com
-- Projects
-- Portfolio
-- Resume/CV
+- 🎓 Student at the University of Toronto
+- 🏢 Currently in South Korea
 
 #### Contact Information
 
-Personal & Business Inquiry: hspeterj@naver.com<br/>
-Academic & Research Inquiry: hyunseok.jang@mail.utoronto.ca<br/>
+Inquiry: hspeterj@gmail.com<br/>
 LinkedIn: https://www.linkedin.com/in/hyunseokjang/

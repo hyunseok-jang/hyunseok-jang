@@ -3,7 +3,7 @@
 <!-- **jjangsta/jjangsta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 I am currently...
-- 🏢 Living and working as a Data Scientist and PM in South Korea
+- 🏢 Living and working as a Data Scientist @ Paran Energy
 
 #### Contact Information
 

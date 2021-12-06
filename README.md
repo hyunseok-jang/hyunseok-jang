@@ -3,9 +3,7 @@
 <!-- **jjangsta/jjangsta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 I am currently...
-- 🏢 Working as a Lead Data Scientist @ Paran Energy
+- Working as a Data Scientist, AI Researcher, and Product Owner @ Paran Energy
 
 #### Contact Information
-
-Inquiry: hspeterj@gmail.com<br/>
 LinkedIn: https://www.linkedin.com/in/hyunseokjang/
